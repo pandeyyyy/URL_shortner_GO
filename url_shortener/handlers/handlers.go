@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/kar5960/url_shortener/database"
-	"github.com/kar5960/url_shortener/helpers"
+	"github.com/pandeyyyy/url_shortener/database"
+	"github.com/pandeyyyy/url_shortener/helpers"
 )
 
 type ShortenRequest struct {
