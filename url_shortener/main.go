@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/kar5960/url_shortener/database"
-	"github.com/kar5960/url_shortener/handlers"
+	"github.com/pandeyyyy/url_shortener/database"
+	"github.com/pandeyyyy/url_shortener/handlers"
 )
 
 func main() {
