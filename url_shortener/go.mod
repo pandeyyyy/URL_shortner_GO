@@ -1,4 +1,4 @@
-module github.com/kar5960/url_shortener
+module github.com/pandeyyyy/url_shortener
 
 go 1.22.4
 
